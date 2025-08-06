@@ -8,3 +8,9 @@ body {
 
     
 }
+
+.diogo {
+    display: flex;
+    justify-content: center;
+
+}
